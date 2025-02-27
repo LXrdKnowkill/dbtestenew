@@ -11,7 +11,7 @@
       },
       {
         "title": "Episódio 2",
-        "url": "https://exemplo.com/videos/serie1-ep2.mp4",
+        "url": "https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/sora-yori-mo-tooi-basho/01.mp4/index.m3u8&nocache1740678874",
         "thumbnail": "https://exemplo.com/thumbnails/serie1-ep2.jpg"
       },
       {
