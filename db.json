@@ -6,7 +6,7 @@
     "episodes": [
       {
         "title": "Episódio 1",
-        "url": "https://youtu.be/xB4gp25FO94?si=u9p3ZhvvxH0ZNVwF",
+        "url": "https://api.anivideo.net/videohls.php?d=https://cdn-s01.mywallpaper-4k-image.net/stream/s/sora-yori-mo-tooi-basho/01.mp4/index.m3u8&nocache1740678874",
         "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=320,height=180/catalog/crunchyroll/b62cf0b12312a40bb2c37bf1cc95aa0e.jpg"
       },
       {
